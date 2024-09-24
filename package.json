@@ -1,0 +1,16 @@
+{
+    "name": "my-node-project",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "MY first node project",
+    "main": "program.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "node",
+        "js"
+    ],
+    "author": "Ming",
+    "license": "ISC"
+}
