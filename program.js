@@ -1,2 +1,2 @@
-console.log("Hello, from Node.js");
+console.log("Howdy, from Node.js");
 console.log("Thanks for stopping by!");
